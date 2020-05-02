@@ -1,14 +1,18 @@
 # Python
 Intro to Data Structures (Python Language) - University of California, Davis
 
-HW1- UnorderedList
-HW2- Node
-HW3- HashTable
-HW4- BinarySearchTree.py
-HW5-Q1- Expression Tree
-	  Q2- Pre,Postorder Tree
-  	Q3- print ExpTree
-	  Q4 - # Shortest path distances are stored in the Vertex objects.
-	       # The goal is for you figure out how to recover it from the vertex
-	       # objects to print out the table.
-HWX - Make up project
+HW1- UnorderedList<br/>
+HW2- Node<br/>
+HW3- HashTable<br/>
+HW4- BinarySearchTree.py<br/>
+HW5
+<ol>
+<li>Expression Tree<br/>
+	<li>Pre, Postorder Tree<br/>
+  	<li>Print ExpTree<br/>
+	<li><ul>
+		<li>Shortest path distances are stored in the Vertex objects.<br/>
+	    	<li>The goal is for you figure out how to recover it from the vertex<br/>
+	        <li>Objects to print out the table.<br/>
+</ol>       
+HWX - Make up project<br/>
